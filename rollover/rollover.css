@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    font-size: 50px;
+}
+
+div{
+    font-size: 50px !important;
+    background-color: #a52a8a;
+}
