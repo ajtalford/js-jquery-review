@@ -7,10 +7,9 @@ $( document ).ready(function() {
 
     $("input").keyup(function(){
         alert($("input").val());
+        var newDiv = $('input').val();
 
-        var newDiv = $('input').val()
-
-        $('input').append(`<p> ${newDiv}</p>`);
-        
+        $('.div1').append(`<h1> ${newDiv}</h1>`);
+  
       });
 });

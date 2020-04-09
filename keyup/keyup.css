@@ -1,12 +1,16 @@
 body{
     text-align: center;
     margin-top: 300px;
-    background-color: chocolate;
+    background-color: #d2691e;
 }
 
 input{
     height: 20px;
     width: 200px;
     font-size: 20px;
-    border: solid red 5px;
+    border: solid #ff0000 5px;
+}
+
+h1{
+    font-size: 50px;
 }
